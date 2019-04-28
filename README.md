@@ -1,7 +1,7 @@
 ##### 准备
 
 - 同一个Wifi网络环境下，手机需要保证SS、SSR或Trojan代理正常访问
-- 获取手机连接Wifi的IP地址, 如: 192.168.10.10，在iOS设置中WiFi的详情页中。
+- 获取手机连接WiFi的所分配的IP地址, 如: 192.168.10.10，在iOS设置中WiFi的详情页中。
 - Win/Mac chrome已经安装SwitchyOmega
 
 
